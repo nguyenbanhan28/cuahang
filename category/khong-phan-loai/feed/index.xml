@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/mywordpress1/wordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenbanhan28.github.io/cuahang</link>
 	<description></description>
-	<lastBuildDate>Mon, 27 Sep 2021 01:36:28 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Sep 2021 11:34:37 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,238 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
+		<title>Samsung muốn làm chip sao chép não người</title>
+		<link>https://nguyenbanhan28.github.io/cuahang/2021/09/28/samsung-muon-lam-chip-sao-chep-nao-nguoi/</link>
+					<comments>https://nguyenbanhan28.github.io/cuahang/2021/09/28/samsung-muon-lam-chip-sao-chep-nao-nguoi/#respond</comments>
+		
+		<dc:creator><![CDATA[nhananhhung]]></dc:creator>
+		<pubDate>Tue, 28 Sep 2021 11:34:37 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://nguyenbanhan28.github.io/cuahang/?p=176</guid>
+
+					<description><![CDATA[Bắt tay cùng các nhà khoa học từ Đại học Harvard, Samsung đang hướng đến một dự án cho tương lai liên quan đến não người. Samsung Electronics vừa chia sẻ một góc nhìn mới về khả năng hiện thực hóa chip thần kinh bắt chước bộ não người. Phát hành dưới dạng luận văn [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Bắt tay cùng các nhà khoa học từ Đại học Harvard, Samsung đang hướng đến một dự án cho tương lai liên quan đến não người.</p>
+
+
+
+<p>Samsung Electronics vừa chia sẻ một góc nhìn mới về khả năng hiện thực hóa chip thần kinh bắt chước bộ não người. Phát hành dưới dạng luận văn quan điểm (Perspective paper), tài liệu cho thấy tầm nhìn của các kỹ sư và học giả hàng đầu thế giới về công nghệ bán dẫn tiên tiến.</p>
+
+
+
+<p>Mang tên&nbsp;<em>Điện tử thần kinh dựa trên sao chép não bộ</em>&nbsp;(Neuromorphic electronics based on copying and pasting the brain), tài liệu là nghiên cứu khoa học của những nhân vật hàng đầu từ Samsung và Đại học Harvard.</p>
+
+
+
+<p>Danh sách tác giả bao gồm Giáo sư, thành viên Viện Công nghệ Tiên tiến Samsung (SAIT) Donhee Ham, Giáo sư Đại học Harvard Hongkun Park , Chủ tịch kiêm Giám đốc điều hành Samsung SDS, cựu Giám đốc SAIT Sungwoo Hwang, Phó chủ tịch kiêm Giám đốc điều hành Samsung Electronics Kinam Kim.Hình ảnh của neuron thần kinh chuột trên CNEA (mảng điện cực nano CMOS). Ảnh: Samsung.</p>
+
+
+
+<ul><li><a></a>https://sp.zalo.me/plugins/share?dev=null&amp;color=null&amp;oaid=4564080408575020426&amp;href=https%3A%2F%2Fzingnews.vn%2Fsamsung-muon-lam-chip-sao-chep-nao-nguoi-post1266623.html%3Futm_source%3Dzalo%26utm_medium%3Dzalomsg%26utm_campaign%3Dzingdesktop&amp;layout=icon-text&amp;customize=true&amp;callback=null&amp;id=3819006b-85d3-4a84-b57a-e1bcbd7e35ad&amp;domain=zingnews.vn&amp;android=false&amp;ios=false</li><li><a></a></li></ul>
+
+
+
+<figure class="wp-block-image"><img src="https://znews-photo.zadn.vn/w1920/Uploaded/zugttw/2021_09_27/Neuromorphic_Chips_0926_main1.jpg" alt="chip mo phong nao nguoi anh 1"/></figure>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><img loading="lazy" src="https://znews-photo.zadn.vn/w660/Uploaded/zugttw/2021_09_27/Neuromorphic_Chips_0926_main1.jpg" alt="chip mo phong nao nguoi anh 1" width="1000" height="650"></td></tr><tr><td>Hình ảnh của neuron thần kinh chuột trên CNEA (mảng điện cực nano CMOS). Ảnh:&nbsp;<em>Samsung.</em></td></tr></tbody></table></figure>
+
+
+
+<p>Theo lời Samsung, bản chất của tài liệu này được tóm gọn bằng hai từ &#8220;copy&#8221; (sao chép) và &#8220;paste&#8221; (dán). Để sao chép hệ thống dây thần kinh của não bộ, luận văn gợi ý sử dụng một mảng điện cực nano đột phá do Giáo sư Ham và Giáo sư Park phát triển. Hệ thống sau đó được dán lên một mạng lưới mật độ cao ba chiều của bộ nhớ bán dẫn, công nghệ mà Samsung đang dẫn đầu thế giới.</p>
+
+
+
+<p>Thông qua cách tiếp cận copy-paste, các tác giả hình dung một chip nhớ có đặc điểm tính toán độc nhất của não người như sử dụng năng lượng thấp, học hỏi dễ dàng, thích ứng với môi trường. Thậm chí chip còn có khả năng tự chủ và nhận thức, yếu tố giúp nó vượt quá tầm với của công nghệ hiện tại.</p>
+
+
+
+<p>Về bản chất, bộ não người được tạo thành từ một lượng lớn các neuron thần kinh, kết nối với nhau bằng hệ thống dây thần kinh để thực hiện các chức năng. Vì vậy, nắm bắt được kiến thức về hệ thống sẽ là chìa khóa để con người có thể thiết kế ngược bộ não.</p>
+
+
+
+<p>Được đưa ra vào những năm 1980, mục tiêu ban đầu của điện toán thần kinh (neuromorphic) là bắt chước cấu trúc và chức năng của hệ thống neuron thần kinh trên một con chip silicon. Tuy nhiên công việc ngay lập tức vấp phải khó khăn vì đến nay, cách các neuron thần kinh được nối lại, cùng nhau hoạt động vẫn còn là một dấu hỏi.</p>
+
+
+
+<p>Do đó, mục tiêu của điện toán thần kinh đã được hạ thấp nhằm thiết kế một con chip &#8220;lấy cảm hứng” từ não bộ thay vì bắt chước một cách cứng nhắc.</p>
+
+
+
+<p>Tài liệu của Samsung đề xuất tìm về mục tiêu ban đầu của điện toán thần kinh là mô phỏng ngược não bộ. Mảng điện cực nano có thể xâm nhập hiệu quả vào một lượng lớn các neuron thần kinh, ghi chép lại tín hiệu điện của chúng với độ nhạy cao. Các bản ghi chép nội bào khổng lồ này cho biết hệ thống dây thần kinh, vị trí các neuron thần kinh kết nối với nhau và độ bền của các kết nối này. Từ bản ghi chép, một hệ thống thần kinh có thể được trích xuất hoặc “copy” lại.</p>
+
+
+
+<p>Hệ thống sau đó có thể được “paste” vào mạng lưới các bộ nhớ điện tĩnh, ví dụ như các bộ nhớ flash thương mại (ổ SSD) hoặc các bộ nhớ như RRAM (RAM có điện trở). Trong đó, độ dẫn của mỗi bộ nhớ được lập trình nhằm thể hiện độ bền của mỗi kết nối neuron trong hệ thống.Samsung cho ra mắt tài liệu nghiên cứu với mục tiêu táo bạo. Ảnh: Samsung.</p>
+
+
+
+<ul><li><a></a></li><li><a></a></li></ul>
+
+
+
+<figure class="wp-block-image"><img src="https://znews-photo.zadn.vn/w1920/Uploaded/zugttw/2021_09_27/Samsung_HQ_starts_selling_Harman_Products_speaker_Retail_in_Asia_.jpg" alt="chip mo phong nao nguoi anh 2"/></figure>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><img loading="lazy" src="https://znews-photo.zadn.vn/w660/Uploaded/zugttw/2021_09_27/Samsung_HQ_starts_selling_Harman_Products_speaker_Retail_in_Asia_.jpg" alt="chip mo phong nao nguoi anh 2" width="1000" height="667"></td></tr><tr><td>Samsung cho ra mắt tài liệu nghiên cứu với mục tiêu táo bạo. Ảnh:&nbsp;<em>Samsung.</em></td></tr></tbody></table></figure>
+
+
+
+<p>Tài liệu còn tiến một bước xa hơn khi đề xuất phương pháp dán nhanh hệ thống neuron thần kinh vào mạng lưới bộ nhớ. Khi được điều khiển bởi tín hiệu đã ghi chép lại từ nội bào, mạng lưới các bộ nhớ điện tĩnh đặc biệt có thể học và thể hiện hệ thống neuron thần kinh. Sơ đồ này sẽ tải trực tiếp hệ thống của não lên chip nhớ.</p>
+
+
+
+<p>Bộ não con người ước tính có khoảng 100 tỷ neuron thần kinh, thêm khoảng một nghìn lần kết nối thần kinh khác. Vậy nên chip thần kinh cuối cùng sẽ cần tới 100.000 tỷ bộ nhớ. Việc tích hợp lượng lớn bộ nhớ trên một con chip có thể khả thi khi sử dụng bộ nhớ 3D tích hợp. Đây là công nghệ đã mở ra kỷ nguyên mới cho ngành công nghiệp chip nhớ mà Samsung hiện có ưu thế.</p>
+
+
+
+<p>Tận dụng kinh nghiệm trong lĩnh vực sản xuất chip, Samsung có kế hoạch tiếp tục nghiên cứu điện toán thần kinh, xây dựng vị thế trong lĩnh vực chất bán dẫn AI thế hệ tiếp theo.</p>
+
+
+
+<p>“Tầm nhìn mà chúng tôi đặt ra rất tham vọng. Tuy nhiên cố gắng vì mục tiêu quả cảm như vậy sẽ thúc đẩy ranh giới của cả trí thông minh máy móc, khoa học thần kinh và công nghệ bán dẫn&#8221;, Giáo sư Ham nói.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyenbanhan28.github.io/cuahang/2021/09/28/samsung-muon-lam-chip-sao-chep-nao-nguoi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Asus VivoBook 15 OLED &#8211; trợ thủ của gen Z mùa tựu trường online</title>
+		<link>https://nguyenbanhan28.github.io/cuahang/2021/09/28/asus-vivobook-15-oled-tro-thu-cua-gen-z-mua-tuu-truong-online/</link>
+					<comments>https://nguyenbanhan28.github.io/cuahang/2021/09/28/asus-vivobook-15-oled-tro-thu-cua-gen-z-mua-tuu-truong-online/#respond</comments>
+		
+		<dc:creator><![CDATA[nhananhhung]]></dc:creator>
+		<pubDate>Tue, 28 Sep 2021 11:32:07 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://nguyenbanhan28.github.io/cuahang/?p=173</guid>
+
+					<description><![CDATA[ới thiết kế trẻ trung, công nghệ màn hình hiện đại đi kèm hiệu năng ổn định, Asus VivoBook 15 OLED đồng hành của gen Z khi bước vào năm học mới. Kể từ khi ra mắt, VivoBook 15 là một trong những dòng laptop bán chạy nhất của Asus. Với mức giá tầm trung, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>ới thiết kế trẻ trung, công nghệ màn hình hiện đại đi kèm hiệu năng ổn định, Asus VivoBook 15 OLED đồng hành của gen Z khi bước vào năm học mới.</p>
+
+
+
+<p>Kể từ khi ra mắt, VivoBook 15 là một trong những dòng laptop bán chạy nhất của Asus. Với mức giá tầm trung, được tích hợp công nghệ hiện đại và thiết kế gọn nhẹ, sản phẩm có khả năng đáp ứng đa dạng nhu cầu sử dụng của giới trẻ năng động.</p>
+
+
+
+<p>Mới đây, Asus Việt Nam tiếp tục ưu ái gen Z khi giới thiệu dòng laptop VivoBook 15 OLED (A515) trang bị công nghệ màn hình OLED, giúp tối ưu việc học tập, tương tác, kết nối qua màn hình chất lượng cao kèm tính năng bảo vệ mắt.</p>
+
+
+
+<h3>Nâng cấp trải nghiệm với công nghệ màn hình OLED</h3>
+
+
+
+<p>Với người thường xuyên học tập và làm việc trên máy tính, một màn hình “xịn xò” không chỉ giúp thỏa mãn trải nghiệm thị giác, mà còn đem lại nguồn cảm hứng cùng tinh thần sáng tạo tích cực.</p>
+
+
+
+<p>Nắm bắt nhu cầu của người dùng, Asus sớm tích hợp công nghệ màn hình OLED lên laptop, cho độ hiển thị màu sắc chính xác ở nhiều điều kiện sáng, tốc độ hồi đáp nhanh chóng cùng độ tương phản cao thể hiện rõ chi tiết.</p>
+
+
+
+<p>Cụ thể, chiếc Asus VivoBook mới nhất có màn hình 15 inch NanoEdge FHD OLED, dải màu DCI-P3 100% với độ chính xác đến 60% so với màn hình LCD thông thường, mang đến trải nghiệm hình ảnh chính xác và chi tiết.</p>
+
+
+
+<p>Với độ tương phản Display HDR True Black 600 hiển thị đủ chi tiết và màu sắc giữ chuẩn xuyên suốt quá trình sử dụng, những trải nghiệm thị giác của người dùng càng trở nên chân thực và sống động hơn.Công nghệ màn hình OLED có độ hiển thị màu sắc chính xác ở nhiều điều kiện sáng.</p>
+
+
+
+<ul><li></li><li></li></ul>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><img loading="lazy" src="https://znews-photo.zadn.vn/w660/Uploaded/ofh_nuottuqz/2021_09_27/z2796259943177_a7a2f034c2f93d3d41435d68ece107cc.jpg" alt="Asus,  Asus VivoBook 15 OLED anh 1" width="1997" height="1331"></td></tr><tr><td>Công nghệ màn hình OLED có độ hiển thị màu sắc chính xác ở nhiều điều kiện sáng.</td></tr></tbody></table></figure>
+
+
+
+<p>Thêm một điểm cộng của màn hình OLED trên mẫu laptop nhà Asus là thời gian đáp ứng chỉ 0,2 ms, không chỉ giúp thao tác học tập như cuộn chuột văn bản diễn ra trơn tru, không gây hiện tượng mờ chữ, mà còn có khả năng hiển thị những cảnh hành động nhịp độ nhanh một cách mượt mà. Tính năng này biến Asus VivoBook 15 OLED trở thành công cụ giải trí mãn nhãn, giải tỏa căng thẳng sau giờ học.</p>
+
+
+
+<p>Bước vào năm học mới online, học sinh, sinh viên có tần suất tiếp xúc màn hình thường xuyên hơn. Với khả năng giảm lượng ánh sáng xanh gây hại đến 70%, công nghệ màn hình OLED khiến gen Z yên tâm hoàn thành tốt các tác vụ học tập, không còn lăn tăn ảnh hưởng thị lực. Nhờ ưu điểm này, Asus VivoBook 15 OLED đạt chứng nhận bảo vệ mắt của TUV Rheinland và SGS tiêu chuẩn quốc tế.</p>
+
+
+
+<p>Với công nghệ màn hình OLED giúp nâng cấp trải nghiệm hiển thị, Asus VivoBook 15 OLED được xem là vị trợ thủ đắc lực, đủ sức đáp ứng đa dạng nhu cầu học tập của gen Z trong năm học đặc biệt này.Asus VivoBook 15 OLED được xem là trợ thủ thân thiết của giới trẻ.</p>
+
+
+
+<ul><li><a></a></li><li><a></a></li></ul>
+
+
+
+<figure class="wp-block-image"><img src="https://znews-photo.zadn.vn/w1920/Uploaded/ofh_nuottuqz/2021_09_27/ASUS_2.jpg" alt="Asus,  Asus VivoBook 15 OLED anh 2"/></figure>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><img loading="lazy" src="https://znews-photo.zadn.vn/w660/Uploaded/ofh_nuottuqz/2021_09_27/ASUS_2.jpg" alt="Asus,  Asus VivoBook 15 OLED anh 2" width="1500" height="1127"></td></tr><tr><td>Asus VivoBook 15 OLED được xem là trợ thủ thân thiết của giới trẻ.</td></tr></tbody></table></figure>
+
+
+
+<h3>Hiệu năng mạnh mẽ, thiết kế hiện đại</h3>
+
+
+
+<p>Dù có thiết kế mỏng nhẹ và thuộc phân khúc tầm trung, Asus VivoBook được tích hợp hiệu năng mạnh mẽ và ổn định. Trong năm học online, tân binh VivoBook OLED 15 có thể đáp ứng nhu cầu thực hiện tác vụ đa nhiệm của gen Z như vừa gọi Zoom, vừa lướt web đòi hỏi nhiều bộ nhớ RAM và ghi chú thông tin nhanh chóng.</p>
+
+
+
+<p>Hiệu năng mạnh mẽ này đến từ việc VivoBook OLED 15 được trang bị vi xử lý Intel Core i5 thế hệ mới nhất và GPU NVIDIA GeForce. Bộ nhớ RAM của máy lên đến 8 GB và có thể nâng cấp đến 24 GB.Asus VivoBook OLED 15 có hiệu năng ổn định phục vụ học tập, giải trí.</p>
+
+
+
+<ul><li><a></a></li><li><a></a></li></ul>
+
+
+
+<figure class="wp-block-image"><img src="https://znews-photo.zadn.vn/w1920/Uploaded/ofh_nuottuqz/2021_09_27/Anh_ghep_1.1.jpeg" alt="Asus,  Asus VivoBook 15 OLED anh 3"/></figure>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><img loading="lazy" src="https://znews-photo.zadn.vn/w660/Uploaded/ofh_nuottuqz/2021_09_27/Anh_ghep_1.1.jpeg" alt="Asus,  Asus VivoBook 15 OLED anh 3" width="1997" height="1331"></td></tr><tr><td>Asus VivoBook OLED 15 có hiệu năng ổn định phục vụ học tập, giải trí.</td></tr></tbody></table></figure>
+
+
+
+<p>Ngoài ra, hiệu năng CPU có thể tăng đến 40% nhờ công nghệ AIPT độc quyền, cho thời lượng pin lâu kèm công nghệ sạc nhanh để gen Z an tâm sử dụng ngày dài. Sinh viên các ngành kỹ thuật, thiết kế hay nghệ thuật sẽ không lo lắng tình trạng laptop đơ, giật, “bó tay” khi chạy các phần mềm sáng tạo nặng đô.</p>
+
+
+
+<p>Không dừng lại với vai trò công cụ học tập, Asus VivoBook OLED 15 còn trở thành món phụ kiện tinh tế để gen Z thể hiện phong cách và cá tính. Máy có thiết kế mỏng nhẹ, nổi bật với phần nắp bọc kim loại hai màu đen và bạc, logo VivoBook đặt lệch trên mặt lưng. Tại keyboard, phím Enter viền vàng neon với thông điệp về tinh thần đổi mới không ngừng của giới trẻ.Thiết kế mỏng nhẹ của Asus VivoBook OLED 15 giúp người dùng có thể mang theo bất cứ đâu.</p>
+
+
+
+<ul><li><a></a></li><li><a></a></li></ul>
+
+
+
+<figure class="wp-block-image"><img src="https://znews-photo.zadn.vn/w1920/Uploaded/ofh_nuottuqz/2021_09_27/ASUS_1.jpg" alt="Asus,  Asus VivoBook 15 OLED anh 4"/></figure>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td><img loading="lazy" src="https://znews-photo.zadn.vn/w660/Uploaded/ofh_nuottuqz/2021_09_27/ASUS_1.jpg" alt="Asus,  Asus VivoBook 15 OLED anh 4" width="1500" height="1127"></td></tr><tr><td>Thiết kế mỏng nhẹ của Asus VivoBook OLED 15 giúp người dùng có thể mang theo bất cứ đâu.</td></tr></tbody></table></figure>
+
+
+
+<p>Để khởi động năm học đặc biệt theo cách riêng, đầu tháng 9, Asus phát động cuộc thi chụp ảnh “Tựu trường khum bình thường” với nhiều filter độc đáo, giúp gen Z thỏa sức sáng tạo và lưu giữ những khoảnh khắc khai giảng, học tập khó quên.</p>
+
+
+
+<p>Để tham gia cuộc thi, người chơi tạo dáng sáng tạo cùng chiếc laptop Asus Vivobook 15 OLED (A515), lưu trải nghiệm filter về máy dưới dạng hình ảnh (hoặc video) và đăng lên Facebook cá nhân ở chế độ công khai kèm hashtag #ASUS #VivoBook #OLED #A515 #TuuTruongKhumBinhThuong.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyenbanhan28.github.io/cuahang/2021/09/28/asus-vivobook-15-oled-tro-thu-cua-gen-z-mua-tuu-truong-online/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Ông hoàng về thời lượng pin không thể tranh cãi của Apple</title>
 		<link>https://nguyenbanhan28.github.io/cuahang/2021/09/27/ong-hoang-ve-thoi-luong-pin-khong-the-tranh-cai-cua-apple/</link>
 					<comments>https://nguyenbanhan28.github.io/cuahang/2021/09/27/ong-hoang-ve-thoi-luong-pin-khong-the-tranh-cai-cua-apple/#respond</comments>
